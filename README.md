@@ -41,19 +41,27 @@
     <td>50900</td>
     <td>4남 저녁식사 교제 (스타벅스)</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>2026-1-9</td>
+    <td>100000</td>
+    <td>윤주혜 전도사님 축의금</td>
+  </tr>
 
   <tr>
     <td>합계 (①)</td>
     <td>1096975</td>
     <td></td>
     <td>합계 (②)</td>
-    <td>262980</td>
+    <td>362980</td>
     <td></td>
   </tr>
 
   <tr>
     <td colspan="2"> 잔액 (① - ②) </td>
-    <td>833995</td>
+    <td>733995</td>
     <td colspan="3" bgcolor="gray"></td>
   </tr>
 

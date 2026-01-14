@@ -49,19 +49,27 @@
     <td>100000</td>
     <td>윤주혜 전도사님 축의금</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>2026-1-13</td>
+    <td>200000</td>
+    <td>교역자 선물비</td>
+  </tr>
 
   <tr>
     <td>합계 (①)</td>
     <td>1096975</td>
     <td></td>
     <td>합계 (②)</td>
-    <td>362980</td>
+    <td>562980</td>
     <td></td>
   </tr>
 
   <tr>
     <td colspan="2"> 잔액 (① - ②) </td>
-    <td>733995</td>
+    <td>533995</td>
     <td colspan="3" bgcolor="gray"></td>
   </tr>
 
